@@ -1,0 +1,5 @@
+lista = ['abc', '123', '1', 1]
+for i in lista:
+    print('Tipul obiectului', i, 'este', type(i))
+
+# Aflarea numarului de nr intregi, float si siruri, nu am stiut sa fac
